@@ -2,5 +2,7 @@ Rencana konsisten wpd
 
 -Mendengar
   *belajar 
+  ^nikmat 
 -ok
+^laravel 
 -sip 
