@@ -2,5 +2,6 @@ Rencana konsisten wpd
 
 -Mendengar
   *belajar 
+  *oke
 -ok
 -sip 
